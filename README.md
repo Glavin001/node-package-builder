@@ -5,13 +5,27 @@ node-package-builder
 
 -----
 
+## Installation
+Install the global `package-builder`.
+```bash
+npm install package-builder --save
+```
+## Usage
+Using `package-builder` for the first time.
+```bash
+package-builder init
+```
+
 ## Features
-- Help creating **package.json**
-- Generating Badges for README.md
+- Help configuring `package.json`.
+- [Creating README.md](https://github.com/Glavin001/node-package-builder/issues/2)
+- [Guide to publishing to NPM](https://github.com/Glavin001/node-package-builder/issues/3)
+- [Generating Badges for `README.md`](https://github.com/Glavin001/node-package-builder/issues/1)
 -- Travis CI
--- NPM
+-- NPM with NodeICO
 -- Sourcegraph
--- Version
-- Init Tests directory with example test using Mocha
-- Init documentation directory
-- Init lib directory with index.js for building onto. 
+-- Version Badge
+- [Create `.gitignore` file](https://github.com/Glavin001/node-package-builder/issues/4)
+- Init `tests` directory with example test using [Mocha](https://github.com/visionmedia/mocha).
+- Init `docs` directory.
+- Init `lib` directory with `index.js` for building onto. 
