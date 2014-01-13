@@ -8,7 +8,7 @@ node-package-builder
 ## Installation
 Install the global `package-builder`.
 ```bash
-npm install package-builder --save
+npm install -g package-builder
 ```
 ## Usage
 Using `package-builder` for the first time.
