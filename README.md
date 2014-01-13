@@ -26,6 +26,7 @@ package-builder init
 -- Sourcegraph
 -- Version Badge
 - [Create `.gitignore` file](https://github.com/Glavin001/node-package-builder/issues/4)
+- [Setup JSHint](https://github.com/Glavin001/node-package-builder/issues/5)
 - Init `tests` directory with example test using [Mocha](https://github.com/visionmedia/mocha).
 - Init `docs` directory.
 - Init `lib` directory with `index.js` for building onto. 
