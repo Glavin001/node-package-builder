@@ -29,3 +29,14 @@ package-builder init
 - Init `tests` directory with example test using [Mocha](https://github.com/visionmedia/mocha).
 - Init `docs` directory.
 - Init `lib` directory with `index.js` for building onto. 
+
+-----
+
+### License
+[MIT](./LICENSE)
+
+### Author
+[Glavin Wiechert](https://github.com/Glavin001)
+
+### Contributors
+- [Glavin Wiechert](https://github.com/Glavin001)
